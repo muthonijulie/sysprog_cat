@@ -1,0 +1,7 @@
+This is a code that reads a file and prints its contents
+This code allows the user to add content to the file.
+The codes are very interesting.
+
+Welcome
+Hello there
+cat
